@@ -1,6 +1,10 @@
-# flutter_music_player
+# Music Player with Flutter
 
-A new Flutter application.
+Beatiful Soft UI desing (Skeuomorphic Design) with Flutter
+
+<p align="center">
+  <img src="soft_ui.png" width="350" alt="soft ui with flutter" title="Screenshot">
+</p>
 
 ## Getting Started
 
